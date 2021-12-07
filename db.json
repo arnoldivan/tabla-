@@ -1,23 +1,16 @@
-[
   {
     "id": 1,
-    "name": "Leanne Graha",
-    "username": "Bret",
-    "email": "https://fpf.org.pe/wp-content/uploads/2021/06/carvallo-min.jpg",
-        "lat": "-37.3159",
-    
-    
+    "name": "PAOLO GUERRERO",
+    "imagen": "https://fpf.org.pe/wp-content/uploads/2021/07/guerrero-1024x1024.png", 
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",  
+    "name": "tapia",
+    "imagen": "https://fpf.org.pe/wp-content/uploads/2021/05/tapia.png",  
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "name": "yotun",
+    "email": "https://fpf.org.pe/wp-content/uploads/2021/05/yotun.png",
   },
-]
+
